@@ -1,0 +1,72 @@
+
+body{
+    background-image: linear-gradient(white, rgba(238, 102, 61, 0.689));
+    display: inline;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    padding-top: 25px;
+    font-size: 40px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    padding-right: 160px;
+    padding-top: 25px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textbox {
+    padding-right: 25px;
+}
+.textbox p {
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    box-shadow: 2px 2px gray;
+    margin: 0;
+}
+.calebfacelol img {
+    width: 150px;
+    height: 200px;
+    border: 2px solid black;
+    box-shadow: 2px 2px gray;
+}
+
+.socials {
+    text-align: center;
+    padding-top: 300px;
+}
+
+.socials ul {
+    margin: 0;
+    padding: 0;
+}
+
+.socials li{
+    position: relative;
+}
+.socials li, a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.socials #second{
+    padding-top: 10px;
+}
+
+footer {
+    padding-top: 15px;
+    text-align: center;
+}
+
+
